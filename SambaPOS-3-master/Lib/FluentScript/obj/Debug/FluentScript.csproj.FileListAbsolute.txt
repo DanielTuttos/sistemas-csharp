@@ -1,0 +1,5 @@
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FluentScript\bin\Debug\Fluentscript.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FluentScript\bin\Debug\Fluentscript.pdb
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FluentScript\obj\Debug\FluentScript.csprojResolveAssemblyReference.cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FluentScript\obj\Debug\Fluentscript.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FluentScript\obj\Debug\Fluentscript.pdb

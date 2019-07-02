@@ -1,0 +1,6 @@
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\bin\Debug\BarcodeScanner.dll
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\bin\Debug\BarcodeScanner.pdb
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\bin\Debug\BarcodeScanner.xml
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\obj\Debug\BarcodeScanner.dll
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\obj\Debug\BarcodeScanner.xml
+C:\Users\Raj\Desktop\PharmacyManagementSystem\Barcode Scanning\obj\Debug\BarcodeScanner.pdb

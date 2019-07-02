@@ -1,0 +1,583 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{68C684F2-6972-48B9-A235-ECC9525086D3}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "Yukon"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "Yukon"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Ampher.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Ampher.resx"
+                    DependentUpon = "Ampher.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ampherSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "ampherSet.cs"
+                />
+                <File
+                    RelPath = "ampherSet.cs"
+                    DependentUpon = "ampherSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ampInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "ampInvoice.cs"
+                />
+                <File
+                    RelPath = "ampInvoice.cs"
+                    DependentUpon = "ampInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "custInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "custInvoice.cs"
+                />
+                <File
+                    RelPath = "custInvoice.cs"
+                    DependentUpon = "custInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "custListSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "custListSet.cs"
+                />
+                <File
+                    RelPath = "custListSet.cs"
+                    DependentUpon = "custListSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "custListSet.xsx"
+                    DependentUpon = "custListSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "CustomerList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CustomerList.resx"
+                    DependentUpon = "CustomerList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "custSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "custSet.cs"
+                />
+                <File
+                    RelPath = "custSet.cs"
+                    DependentUpon = "custSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Debt.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Debt.resx"
+                    DependentUpon = "Debt.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "DebtList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DebtList.resx"
+                    DependentUpon = "DebtList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "debtListSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "debtListSet.cs"
+                />
+                <File
+                    RelPath = "debtListSet.cs"
+                    DependentUpon = "debtListSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "debtListSet.xsx"
+                    DependentUpon = "debtListSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "debtSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "debtSet.cs"
+                />
+                <File
+                    RelPath = "debtSet.cs"
+                    DependentUpon = "debtSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "debtSet.xsx"
+                    DependentUpon = "debtSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Driver.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Driver.resx"
+                    DependentUpon = "Driver.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "driverInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "driverInvoice.cs"
+                />
+                <File
+                    RelPath = "driverInvoice.cs"
+                    DependentUpon = "driverInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "DriverList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DriverList.resx"
+                    DependentUpon = "DriverList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "driverListSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "driverListSet.cs"
+                />
+                <File
+                    RelPath = "driverListSet.cs"
+                    DependentUpon = "driverListSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "driverListSet.xsx"
+                    DependentUpon = "driverListSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "driverSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "driverSet.cs"
+                />
+                <File
+                    RelPath = "driverSet.cs"
+                    DependentUpon = "driverSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "empListSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "empListSet.cs"
+                />
+                <File
+                    RelPath = "empListSet.cs"
+                    DependentUpon = "empListSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "empListSet.xsx"
+                    DependentUpon = "empListSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Employee.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Employee.resx"
+                    DependentUpon = "Employee.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "EmployeeList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "EmployeeList.resx"
+                    DependentUpon = "EmployeeList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "empSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "empSet.cs"
+                />
+                <File
+                    RelPath = "empSet.cs"
+                    DependentUpon = "empSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Invoice.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Invoice.resx"
+                    DependentUpon = "Invoice.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "invoiceSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "invoiceSet.cs"
+                />
+                <File
+                    RelPath = "invoiceSet.cs"
+                    DependentUpon = "invoiceSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "invView.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "invView.cs"
+                />
+                <File
+                    RelPath = "invView.cs"
+                    DependentUpon = "invView.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Main.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Main.resx"
+                    DependentUpon = "Main.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "prodInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "prodInvoice.cs"
+                />
+                <File
+                    RelPath = "prodInvoice.cs"
+                    DependentUpon = "prodInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Product.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Product.resx"
+                    DependentUpon = "Product.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ProductList.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ProductList.resx"
+                    DependentUpon = "ProductList.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "productListSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "productListSet.cs"
+                />
+                <File
+                    RelPath = "productListSet.cs"
+                    DependentUpon = "productListSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "productListSet.xsx"
+                    DependentUpon = "productListSet.xsd"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "productSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "productSet.cs"
+                />
+                <File
+                    RelPath = "productSet.cs"
+                    DependentUpon = "productSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "profileSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "profileSet.cs"
+                />
+                <File
+                    RelPath = "profileSet.cs"
+                    DependentUpon = "profileSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "proInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "proInvoice.cs"
+                />
+                <File
+                    RelPath = "proInvoice.cs"
+                    DependentUpon = "proInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Province.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Province.resx"
+                    DependentUpon = "Province.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "provinceSet.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "provinceSet.cs"
+                />
+                <File
+                    RelPath = "provinceSet.cs"
+                    DependentUpon = "provinceSet.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Registration.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Registration.resx"
+                    DependentUpon = "Registration.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "viewInvoice.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "viewInvoice.resx"
+                    DependentUpon = "viewInvoice.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "viewInvoice.xsd"
+                    BuildAction = "Content"
+                    Generator = "MSDataSetGenerator"
+                    LastGenOutput = "viewInvoice1.cs"
+                />
+                <File
+                    RelPath = "viewInvoice1.cs"
+                    DependentUpon = "viewInvoice.xsd"
+                    SubType = "code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

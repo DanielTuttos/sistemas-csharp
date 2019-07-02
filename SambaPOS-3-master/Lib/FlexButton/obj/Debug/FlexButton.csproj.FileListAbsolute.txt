@@ -1,0 +1,14 @@
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\bin\Debug\FlexButton.pdb
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csprojResolveAssemblyReference.cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\Generic.baml
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton_MarkupCompile.lref
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButton.baml
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\Themes\resXSButtonStyles.baml
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.g.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.Properties.Resources.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.csproj.GenerateResource.Cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\FlexButton\obj\Debug\FlexButton.pdb

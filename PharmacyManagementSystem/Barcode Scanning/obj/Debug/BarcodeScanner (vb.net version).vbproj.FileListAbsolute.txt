@@ -1,0 +1,6 @@
+F:\vb.net\bin\Debug\BarcodeScanner.dll
+F:\vb.net\bin\Debug\BarcodeScanner.pdb
+F:\vb.net\bin\Debug\BarcodeScanner.xml
+F:\vb.net\obj\Debug\BarcodeScanner.dll
+F:\vb.net\obj\Debug\BarcodeScanner.xml
+F:\vb.net\obj\Debug\BarcodeScanner.pdb

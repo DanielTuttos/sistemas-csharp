@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\Tutorial\DAL\bin\Debug\DAL.dll
+C:\Users\Jonathan\Desktop\Tutorial\DAL\bin\Debug\DAL.pdb
+C:\Users\Jonathan\Desktop\Tutorial\DAL\bin\Debug\EN.dll
+C:\Users\Jonathan\Desktop\Tutorial\DAL\bin\Debug\EN.pdb
+C:\Users\Jonathan\Desktop\Tutorial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Tutorial\DAL\obj\Debug\DAL.dll
+C:\Users\Jonathan\Desktop\Tutorial\DAL\obj\Debug\DAL.pdb
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\bin\Debug\DAL.dll
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\bin\Debug\DAL.pdb
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\bin\Debug\EN.dll
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\bin\Debug\EN.pdb
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\obj\Debug\DAL.dll
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\DAL\obj\Debug\DAL.pdb

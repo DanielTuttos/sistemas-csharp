@@ -1,0 +1,143 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using CapaEnlaceDatos;
+
+namespace CapaLogicaNegocio
+{
+    public class clsAlumno
+    {
+        private clsManejador M = new clsManejador();
+
+        //Atributos
+        private String m_Dni;
+        private String m_Apellidos;
+        private String m_Nombres;
+        private Char m_Sexo;
+        private DateTime m_FechaNac;
+        private String m_Direccion;
+        //Propiedades
+
+        public String Dni
+        {
+            get { return m_Dni; }
+            set { m_Dni = value; }
+        }
+
+        public String Apellidos
+        {
+            get { return m_Apellidos; }
+            set { m_Apellidos = value; }
+        }
+
+        public String Nombres
+        {
+            get { return m_Nombres; }
+            set { m_Nombres = value; }
+        }
+
+        public Char Sexo
+        {
+            get { return m_Sexo; }
+            set { m_Sexo = value; }
+        }
+
+        public DateTime FechaNacimiento
+        {
+            get { return m_FechaNac; }
+            set { m_FechaNac = value; }
+        }
+
+        public String Direccion
+        {
+            get { return m_Direccion; }
+            set { m_Direccion = value; }
+        }
+
+        public DataTable Listado() {
+            return M.Listado("ListarALumnos",null);
+        }
+
+
+        public String RegistrarAlumnos() {
+            List<clsParametro> lst = new List<clsParametro>();
+            String Mensaje = "";
+            try
+            {
+                //Pasamos los parametros de entrada
+                lst.Add(new clsParametro("@Dni",m_Dni));
+                lst.Add(new clsParametro("@Apellidos",m_Apellidos));
+                lst.Add(new clsParametro("@Nombres",m_Nombres));
+                lst.Add(new clsParametro("@Sexo",m_Sexo));
+                lst.Add(new clsParametro("@FechaNac",m_FechaNac));
+                lst.Add(new clsParametro("@Direccion",m_Direccion));
+                //Pasamos los datos de Salida
+                lst.Add(new clsParametro("@Mensaje","",SqlDbType.VarChar,ParameterDirection.Output,100));
+                M.EjecutarSP("RegistrarAlumnos",ref lst);
+                Mensaje=lst[6].Valor.ToString();
+            }
+            catch (Exception)
+            {                
+                throw;
+            }
+            return Mensaje;
+        }
+
+        public String ActualizarDatos() {
+            List<clsParametro> lst = new List<clsParametro>();
+            String Mensaje = "";
+            try
+            {
+                lst.Add(new clsParametro("@Dni",m_Dni));
+                lst.Add(new clsParametro("@Apellidos",m_Apellidos));
+                lst.Add(new clsParametro("@Nombres",m_Nombres));
+                lst.Add(new clsParametro("@Sexo",m_Sexo));
+                lst.Add(new clsParametro("@FechaNac",m_FechaNac));
+                lst.Add(new clsParametro("@Direccion",m_Direccion));
+                lst.Add(new clsParametro("@Mensaje","",SqlDbType.VarChar,ParameterDirection.Output,100));
+                M.EjecutarSP("ActualizarDatos",ref lst);
+                Mensaje=lst[6].Valor.ToString();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return Mensaje;
+        }
+
+        public String EliminarRegistro() {
+            List<clsParametro> lst = new List<clsParametro>();
+            String Mensaje = "";
+            try
+            {
+                lst.Add(new clsParametro("@Dni",m_Dni));
+                lst.Add(new clsParametro("@Mensaje","",SqlDbType.VarChar,ParameterDirection.Output,100));
+                M.EjecutarSP("EliminarAlumnos",ref lst);
+                Mensaje = lst[1].Valor.ToString();
+            }
+            catch (Exception ex)
+            {  
+                throw ex;
+            }
+            return Mensaje;
+        }
+
+        public DataTable BuscarAlumno(String objDni) {
+            DataTable dt = new DataTable();
+            List<clsParametro> lst = new List<clsParametro>();
+            try
+            {
+                lst.Add(new clsParametro("@Dni",objDni));
+                dt = M.Listado("BuscarAlumnos",lst);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            return dt;
+        }
+    }
+}

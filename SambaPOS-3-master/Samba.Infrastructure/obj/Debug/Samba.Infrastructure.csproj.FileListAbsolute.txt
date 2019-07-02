@@ -1,0 +1,6 @@
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll.config
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\bin\Debug\Samba.Infrastructure.pdb
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Infrastructure\obj\Debug\Samba.Infrastructure.pdb

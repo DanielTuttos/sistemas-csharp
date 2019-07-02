@@ -1,0 +1,185 @@
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Interop.ADODB.dll
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.ResolveComReference.cache
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.exe
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.xml
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.pdb
+D:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.exe
+D:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.pdb
+D:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.xml
+D:\Bosch-Tech\Bosch-Tech\bin\Debug\Interop.ADODB.dll
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\ResolveAssemblyReference.cache
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcust.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcustorder.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmemployee.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmlogin.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcategory.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmmaster.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmproduct.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmregistration.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmstock.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplier.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplierorder.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.Resources.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.GenerateResource.Cache
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmdiscount.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmpayment.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmchangepass.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewsuporder.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewcustorder.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsales.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchcustomer.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchproducts.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmprintbill.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreplace.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreport.resources
+E:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.exe
+E:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.pdb
+E:\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.xml
+E:\Bosch-Tech\Bosch-Tech\bin\Debug\Interop.ADODB.dll
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\ResolveAssemblyReference.cache
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Interop.ADODB.dll
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.ResolveComReference.cache
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmchangepass.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcust.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcustorder.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmdiscount.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmemployee.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmlogin.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcategory.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmmaster.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmpayment.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmprintbill.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmproduct.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmregistration.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreplace.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreport.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsales.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchcustomer.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchproducts.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmstock.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplier.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplierorder.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewcustorder.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewsuporder.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.Resources.resources
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.GenerateResource.Cache
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.exe
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.xml
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.pdb
+E:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmscrap.resources
+D:\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmscrap.resources
+C:\Users\Aravinda.Aravinda-PC\Desktop\To upload\Bosch-Tech\Bosch-Tech\obj\Debug\Interop.ADODB.dll
+C:\Users\Aravinda.Aravinda-PC\Desktop\To upload\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.ResolveComReference.cache
+C:\Users\Aravinda.Aravinda-PC\Desktop\To upload\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.exe
+C:\Users\Aravinda.Aravinda-PC\Desktop\To upload\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.xml
+C:\Users\Aravinda.Aravinda-PC\Desktop\To upload\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.pdb
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Interop.ADODB.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.ResolveComReference.cache
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.exe
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.xml
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.pdb
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.exe
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.pdb
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.xml
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\System.Web.Services.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\FlashControlV71.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\stdole.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\bin\Debug\Interop.ADODB.dll
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbprojResolveAssemblyReference.cache
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmchangepass.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcust.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcustorder.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmdiscount.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmemployee.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmlogin.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcategory.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmmaster.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmpayment.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmprintbill.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmproduct.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmregistration.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreplace.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreport.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsales.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmscrap.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchcustomer.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchproducts.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmstock.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplier.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplierorder.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewcustorder.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewsuporder.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.Resources.resources
+D:\Escritorio\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.GenerateResource.Cache
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Interop.ADODB.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.ResolveComReference.cache
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.exe
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.xml
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.pdb
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.exe
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.pdb
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\Bosch-Tech.xml
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.Shared.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\System.Web.Services.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\FlashControlV71.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\stdole.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\ShockwaveFlashObjects.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\bin\Debug\Interop.ADODB.dll
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbprojResolveAssemblyReference.cache
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmchangepass.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcust.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcustorder.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmdiscount.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmemployee.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmlogin.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmcategory.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmmaster.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmpayment.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmprintbill.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmproduct.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmregistration.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreplace.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmreport.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsales.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmscrap.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchcustomer.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsearchproducts.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmstock.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplier.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmsupplierorder.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewcustorder.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.frmviewsuporder.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch_Tech.Resources.resources
+D:\Descargas\SISTEMA ERP DE INVENTARIO Y FACTURACIÓN\Bosch-Tech\Bosch-Tech\obj\Debug\Bosch-Tech.vbproj.GenerateResource.Cache

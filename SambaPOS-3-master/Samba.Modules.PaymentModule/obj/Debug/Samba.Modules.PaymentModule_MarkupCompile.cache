@@ -1,0 +1,20 @@
+﻿Samba.Modules.PaymentModule
+
+
+library
+C#
+.cs
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Modules.PaymentModule\obj\Debug\
+Samba.Modules.PaymentModule
+none
+false
+DEBUG;TRACE
+
+10-1067981509
+
+28-732405530
+22-1749140124
+ChangeTemplatesView.xaml;CommandButtonsView.xaml;ForeignCurrencyButtonsView.xaml;NumberPadView.xaml;OrderSelectorView.xaml;PaymentButtonsView.xaml;PaymentEditorView.xaml;PaymentTotalsView.xaml;ReturningAmountView.xaml;TenderedValueView.xaml;
+
+False
+

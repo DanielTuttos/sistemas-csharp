@@ -1,0 +1,300 @@
+F:\Retail POS\RetailPOS\bin\Debug\PharmacyManagementSystem.exe.config
+F:\Retail POS\RetailPOS\bin\Debug\PharmacyManagementSystem.exe
+F:\Retail POS\RetailPOS\bin\Debug\PharmacyManagementSystem.pdb
+F:\Retail POS\RetailPOS\bin\Debug\PharmacyManagementSystem.xml
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.vbprojResolveAssemblyReference.cache
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmBackOffice.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.Cash_Payment_Transaction.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmCashRec.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword1.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmCurrency.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmExpense.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmExpenseType.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmJournal.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmOption.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmPrinterSetting.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmReport.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmSales.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmPurchase.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmPartyBankAccountRegistration.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmPartyRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmParty.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmCompany.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmProductsRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmProduct.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmSplash.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmSqlServerSetting.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmStockIssue.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmStockIssueRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmStore.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmVoucher.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmVoucherRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmWarehouse.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmTax.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmTaxType.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmWarehouseType.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmAbout.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmActivation.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmCategory.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmLogin.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmLogs.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmRegistration.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmSystemInfo.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmTaxSetting.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.frmSalesRecord.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.Resources.resources
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.vbproj.GenerateResource.Cache
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.exe
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.xml
+F:\Retail POS\RetailPOS\obj\x86\Debug\PharmacyManagementSystem.pdb
+F:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.exe
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.xml
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.pdb
+F:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+F:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+F:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.xml
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbprojResolveAssemblyReference.cache
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBackOffice.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.Cash_Payment_Transaction.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCashRec.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrency.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomDialog5.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpense.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpenseType.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmJournal.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmOption.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPrinterSetting.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmReport.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSales.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchase.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPartyBankAccountRegistration.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPartyRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmParty.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCompany.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProductsRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProduct.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSplash.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSqlServerSetting.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockIssue.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockIssueRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStore.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucher.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucherRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouse.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTax.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTaxType.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouseType.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmAbout.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmActivation.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCategory.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogin.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogs.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmRegistration.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSystemInfo.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTaxSetting.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSalesRecord.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.Resources.resources
+F:\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.exe
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.xml
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.pdb
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.xml
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrency.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomDialog5.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpense.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpenseType.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmMainMenu.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPayment.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPaymentRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPrinterSetting.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmReport.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchase.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCompany.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProductsRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProduct.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSMSSetting.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSplash.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSqlServerSetting.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockInRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockIn_StoreRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockOUTRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockOUT_StoreRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockTransfer.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockTransferRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplier.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplierRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucher.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucherRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouse.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTax.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTaxType.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouseType.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmAbout.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmActivation.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCategory.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogin.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogs.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmRegistration.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSystemInfo.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.Resources.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomer.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerLedger.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord1.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord2.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplierLedger.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCamera.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStore.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpiredProductsRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLowStockRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBarcodeLabelPrinting.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralDayBook.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralLedger.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseDaybook.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseReport.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTrialBalance.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCreditorsAndDebtorsReport.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucherReport.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpiredProductsRecord_Store.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBilling.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBillingRecord.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrentStock.resources
+C:\Users\Raj\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSalesReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.exe
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.xml
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.pdb
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.xml
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBillingRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpiredProductsRecord_Store.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCamera.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCreditorsAndDebtorsReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrency.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomDialog5.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomer.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerLedger.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord2.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpense.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpenseType.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpiredProductsRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralDayBook.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralLedger.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLowStockRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmMainMenu.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPayment.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPaymentRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPrinterSetting.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseDaybook.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchase.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProductsRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProduct.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSalesReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSMSSetting.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSplash.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSqlServerSetting.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrentStock.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockInRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockIn_StoreRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockOUTRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockOUT_StoreRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockTransfer.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockTransferRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStore.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplier.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplierLedger.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplierRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTrialBalance.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucher.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucherRecord.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmVoucherReport.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouse.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTax.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTaxType.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouseType.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmAbout.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmActivation.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCategory.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogin.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogs.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmRegistration.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSystemInfo.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBarcodeLabelPrinting.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmContactMe.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSales.resources
+C:\Users\Vaibhav-PC\Desktop\LATEST SOFTWARS\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCompanyEntry.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.exe
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.xml
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.pdb
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.xml
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCamera.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrency.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomDialog5.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomer.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerLedger.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord1.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCustomerRecord2.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpense.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmExpiredProductsRecord.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralDayBook.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmGeneralLedger.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLowStockRecord.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmMainMenu.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPayment.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPrinterSetting.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchaseDaybook.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmReport.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmPurchase.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmProduct.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSMSSetting.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSplash.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSqlServerSetting.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCurrentStock.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockInRecord.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStockTransfer.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmStore.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplier.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSupplierLedger.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTrialBalance.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouse.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmTax.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmWarehouseType.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmAbout.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmActivation.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmChangePassword.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmCategory.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogin.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmLogs.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmRegistration.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmSystemInfo.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmBarcodeLabelPrinting.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.frmContactMe.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\Planet\PharmacyManagementSystem\PharmacyManagementSystem\obj\x86\Debug\PharmacyManagementSystem.vbproj.GenerateResource.Cache

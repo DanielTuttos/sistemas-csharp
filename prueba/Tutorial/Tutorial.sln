@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EN", "EN\EN.csproj", "{1A52DEF6-0708-4BD4-BCC0-14E9C4BA8D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1118A8E1-D6C0-4584-BA81-71BFFB33A9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{5B9307F7-F0D5-4B71-8030-1144029C3060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFejemplo", "WPFejemplo\WPFejemplo.csproj", "{659DC1B3-055E-415C-8B2E-485F23A384EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A52DEF6-0708-4BD4-BCC0-14E9C4BA8D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A52DEF6-0708-4BD4-BCC0-14E9C4BA8D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A52DEF6-0708-4BD4-BCC0-14E9C4BA8D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A52DEF6-0708-4BD4-BCC0-14E9C4BA8D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1118A8E1-D6C0-4584-BA81-71BFFB33A9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1118A8E1-D6C0-4584-BA81-71BFFB33A9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1118A8E1-D6C0-4584-BA81-71BFFB33A9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1118A8E1-D6C0-4584-BA81-71BFFB33A9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9307F7-F0D5-4B71-8030-1144029C3060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9307F7-F0D5-4B71-8030-1144029C3060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9307F7-F0D5-4B71-8030-1144029C3060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9307F7-F0D5-4B71-8030-1144029C3060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659DC1B3-055E-415C-8B2E-485F23A384EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659DC1B3-055E-415C-8B2E-485F23A384EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659DC1B3-055E-415C-8B2E-485F23A384EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659DC1B3-055E-415C-8B2E-485F23A384EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

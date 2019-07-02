@@ -1,0 +1,28 @@
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\Juan\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojResolveAssemblyReference.cache
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb

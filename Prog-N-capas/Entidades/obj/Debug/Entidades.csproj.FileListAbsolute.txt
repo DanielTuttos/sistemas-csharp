@@ -1,0 +1,16 @@
+E:\J4ckware\Entidades\bin\Debug\Entidades.dll
+E:\J4ckware\Entidades\bin\Debug\Entidades.pdb
+E:\J4ckware\Entidades\obj\Debug\ResolveAssemblyReference.cache
+E:\J4ckware\Entidades\obj\Debug\Entidades.dll
+E:\J4ckware\Entidades\obj\Debug\Entidades.pdb
+F:\J4ckware\Entidades\bin\Debug\Entidades.dll
+F:\J4ckware\Entidades\bin\Debug\Entidades.pdb
+F:\J4ckware\Entidades\obj\Debug\ResolveAssemblyReference.cache
+F:\J4ckware\Entidades\obj\Debug\Entidades.dll
+F:\J4ckware\Entidades\obj\Debug\Entidades.pdb
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\bin\Debug\Entidades.dll
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\obj\Debug\Entidades.dll
+C:\Users\UPTUDENT\Desktop\Prog-N-capas\Entidades\obj\Debug\Entidades.pdb

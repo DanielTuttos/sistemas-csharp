@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SalesAndMonitoringModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SalesAndMonitoringModelStoreContainer">
+    <EntitySet Name="Audit Trail" EntityType="SalesAndMonitoringModel.Store.Audit Trail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customers" EntityType="SalesAndMonitoringModel.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DB_tbl" EntityType="SalesAndMonitoringModel.Store.DB_tbl" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employees" EntityType="SalesAndMonitoringModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Order Details" EntityType="SalesAndMonitoringModel.Store.Order Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="SalesAndMonitoringModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Payment" EntityType="SalesAndMonitoringModel.Store.Payment" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Privilege_tbl" EntityType="SalesAndMonitoringModel.Store.Privilege_tbl" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Products" EntityType="SalesAndMonitoringModel.Store.Products" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Remittance" EntityType="SalesAndMonitoringModel.Store.Remittance" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RemittanceDetail" EntityType="SalesAndMonitoringModel.Store.RemittanceDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Sub_Priv_tbl" EntityType="SalesAndMonitoringModel.Store.Sub_Priv_tbl" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Suppliers" EntityType="SalesAndMonitoringModel.Store.Suppliers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User_tbl" EntityType="SalesAndMonitoringModel.Store.User_tbl" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Vendors" EntityType="SalesAndMonitoringModel.Store.Vendors" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Order Details_Orders" Association="SalesAndMonitoringModel.Store.FK_Order Details_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Order Details" EntitySet="Order Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order Details_Products" Association="SalesAndMonitoringModel.Store.FK_Order Details_Products">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Order Details" EntitySet="Order Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Customers" Association="SalesAndMonitoringModel.Store.FK_Orders_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Employees" Association="SalesAndMonitoringModel.Store.FK_Orders_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Payment_Orders" Association="SalesAndMonitoringModel.Store.FK_Payment_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="Payment" EntitySet="Payment" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Privilege_tbl_DB_tbl" Association="SalesAndMonitoringModel.Store.FK_Privilege_tbl_DB_tbl">
+      <End Role="DB_tbl" EntitySet="DB_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Privilege_tbl_Sub_Priv_tbl" Association="SalesAndMonitoringModel.Store.FK_Privilege_tbl_Sub_Priv_tbl">
+      <End Role="Sub_Priv_tbl" EntitySet="Sub_Priv_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Privilege_tbl_User_tbl" Association="SalesAndMonitoringModel.Store.FK_Privilege_tbl_User_tbl">
+      <End Role="User_tbl" EntitySet="User_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_Suppliers" Association="SalesAndMonitoringModel.Store.FK_Products_Suppliers">
+      <End Role="Suppliers" EntitySet="Suppliers" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Remittance_User_tbl" Association="SalesAndMonitoringModel.Store.FK_Remittance_User_tbl">
+      <End Role="User_tbl" EntitySet="User_tbl" />
+      <End Role="Remittance" EntitySet="Remittance" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RemittanceDetail_Remittance" Association="SalesAndMonitoringModel.Store.FK_RemittanceDetail_Remittance">
+      <End Role="Remittance" EntitySet="Remittance" />
+      <End Role="RemittanceDetail" EntitySet="RemittanceDetail" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Audit Trail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TypeOfTrans" Type="varchar" MaxLength="50" />
+    <Property Name="TransNo" Type="varchar" MaxLength="50" />
+    <Property Name="IsSales" Type="bit" />
+    <Property Name="IsVoid" Type="bit" />
+    <Property Name="VoidReason" Type="varchar(max)" />
+    <Property Name="IsReturn" Type="bit" />
+    <Property Name="ReturnReason" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="varchar" MaxLength="50" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="80" />
+    <Property Name="Mobile" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" />
+    <Property Name="Fax" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DB_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DBDesc" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="Title" Type="nvarchar" MaxLength="30" />
+    <Property Name="TitleOfCourtesy" Type="nvarchar" MaxLength="25" />
+    <Property Name="BirthDate" Type="datetime" />
+    <Property Name="HireDate" Type="datetime" />
+    <Property Name="Address" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="15" />
+    <Property Name="Region" Type="nvarchar" MaxLength="15" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="Country" Type="nvarchar" MaxLength="15" />
+    <Property Name="HomePhone" Type="nvarchar" MaxLength="24" />
+    <Property Name="Extension" Type="nvarchar" MaxLength="4" />
+    <Property Name="Photo" Type="image" />
+    <Property Name="Notes" Type="nvarchar(max)" />
+    <Property Name="ReportsTo" Type="int" />
+  </EntityType>
+  <EntityType Name="Order Details">
+    <Key>
+      <PropertyRef Name="OrderDetailID" />
+    </Key>
+    <Property Name="OrderDetailID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OrderlID" Type="int" />
+    <Property Name="ProductID" Type="int" />
+    <Property Name="UnitPrice" Type="money" />
+    <Property Name="Quantity" Type="smallint" Nullable="false" />
+    <Property Name="Discount" Type="real" />
+    <Property Name="IsVoid" Type="bit" />
+    <Property Name="IsReturn" Type="bit" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerID" Type="int" />
+    <Property Name="EmployeeID" Type="int" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="RequiredDate" Type="datetime" />
+    <Property Name="DeliveryDate" Type="datetime" />
+    <Property Name="BillingDate" Type="datetime" />
+    <Property Name="DeliveryAddress" Type="nvarchar" MaxLength="60" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="80" />
+    <Property Name="Term" Type="int" />
+    <Property Name="IsPaid" Type="bit" />
+  </EntityType>
+  <EntityType Name="Payment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="InvoiceID" Type="int" />
+    <Property Name="AmountPaid" Type="money" />
+    <Property Name="Balance" Type="money" />
+  </EntityType>
+  <EntityType Name="Privilege_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PrivilegeID" Type="int" Nullable="false" />
+    <Property Name="DbID" Type="int" />
+    <Property Name="UserID" Type="int" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Barcode" Type="varchar(max)" />
+    <Property Name="ProductName" Type="varchar" MaxLength="50" />
+    <Property Name="SupplierID" Type="int" />
+    <Property Name="QuantityPerUnit" Type="nvarchar" MaxLength="20" />
+    <Property Name="UnitPrice" Type="money" />
+    <Property Name="UnitsInStock" Type="smallint" />
+    <Property Name="UnitsOnOrder" Type="smallint" />
+    <Property Name="ReorderLevel" Type="smallint" />
+    <Property Name="Discontinued" Type="bit" />
+  </EntityType>
+  <EntityType Name="Remittance">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="DateRemit" Type="date" />
+  </EntityType>
+  <EntityType Name="RemittanceDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RemitID" Type="int" />
+    <Property Name="TypeOfTender" Type="varchar" MaxLength="50" />
+    <Property Name="DateCheck" Type="date" />
+    <Property Name="CheckNo" Type="varchar" MaxLength="50" />
+    <Property Name="Amount" Type="money" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Total" Type="money" />
+  </EntityType>
+  <EntityType Name="Sub_Priv_tbl">
+    <Key>
+      <PropertyRef Name="PrivilegeID" />
+    </Key>
+    <Property Name="PrivilegeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="Add" Type="bit" />
+    <Property Name="Edit" Type="bit" />
+    <Property Name="Delete" Type="bit" />
+    <Property Name="View" Type="bit" />
+  </EntityType>
+  <EntityType Name="Suppliers">
+    <Key>
+      <PropertyRef Name="SupplierID" />
+    </Key>
+    <Property Name="SupplierID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="50" />
+    <Property Name="ContactName" Type="varchar" MaxLength="50" />
+    <Property Name="ContactTitle" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="80" />
+    <Property Name="City" Type="varchar" MaxLength="50" />
+    <Property Name="Region" Type="varchar" MaxLength="50" />
+    <Property Name="PostalCode" Type="varchar" MaxLength="50" />
+    <Property Name="Country" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" />
+    <Property Name="Fax" Type="varchar" MaxLength="50" />
+    <Property Name="HomePage" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="nvarchar" MaxLength="20" />
+    <Property Name="Password" Type="nvarchar" MaxLength="100" />
+    <Property Name="UserLevel" Type="varchar" MaxLength="50" />
+    <Property Name="PrivID" Type="int" />
+    <Property Name="Fullname" Type="varchar" MaxLength="80" />
+  </EntityType>
+  <EntityType Name="Vendors">
+    <Key>
+      <PropertyRef Name="ShipperID" />
+    </Key>
+    <Property Name="ShipperID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="50" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="50" />
+    <Property Name="Mobile" Type="varchar" MaxLength="50" />
+    <Property Name="Fax" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Order Details_Orders">
+    <End Role="Orders" Type="SalesAndMonitoringModel.Store.Orders" Multiplicity="0..1" />
+    <End Role="Order Details" Type="SalesAndMonitoringModel.Store.Order Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Order Details">
+        <PropertyRef Name="OrderlID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order Details_Products">
+    <End Role="Products" Type="SalesAndMonitoringModel.Store.Products" Multiplicity="0..1" />
+    <End Role="Order Details" Type="SalesAndMonitoringModel.Store.Order Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Order Details">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Customers">
+    <End Role="Customers" Type="SalesAndMonitoringModel.Store.Customers" Multiplicity="0..1" />
+    <End Role="Orders" Type="SalesAndMonitoringModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Employees">
+    <End Role="Employees" Type="SalesAndMonitoringModel.Store.Employees" Multiplicity="0..1" />
+    <End Role="Orders" Type="SalesAndMonitoringModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Payment_Orders">
+    <End Role="Orders" Type="SalesAndMonitoringModel.Store.Orders" Multiplicity="0..1" />
+    <End Role="Payment" Type="SalesAndMonitoringModel.Store.Payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Payment">
+        <PropertyRef Name="InvoiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Privilege_tbl_DB_tbl">
+    <End Role="DB_tbl" Type="SalesAndMonitoringModel.Store.DB_tbl" Multiplicity="0..1" />
+    <End Role="Privilege_tbl" Type="SalesAndMonitoringModel.Store.Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DB_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="DbID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Privilege_tbl_Sub_Priv_tbl">
+    <End Role="Sub_Priv_tbl" Type="SalesAndMonitoringModel.Store.Sub_Priv_tbl" Multiplicity="1" />
+    <End Role="Privilege_tbl" Type="SalesAndMonitoringModel.Store.Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sub_Priv_tbl">
+        <PropertyRef Name="PrivilegeID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="PrivilegeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Privilege_tbl_User_tbl">
+    <End Role="User_tbl" Type="SalesAndMonitoringModel.Store.User_tbl" Multiplicity="0..1" />
+    <End Role="Privilege_tbl" Type="SalesAndMonitoringModel.Store.Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_Suppliers">
+    <End Role="Suppliers" Type="SalesAndMonitoringModel.Store.Suppliers" Multiplicity="0..1" />
+    <End Role="Products" Type="SalesAndMonitoringModel.Store.Products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Suppliers">
+        <PropertyRef Name="SupplierID" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="SupplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Remittance_User_tbl">
+    <End Role="User_tbl" Type="SalesAndMonitoringModel.Store.User_tbl" Multiplicity="0..1" />
+    <End Role="Remittance" Type="SalesAndMonitoringModel.Store.Remittance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Remittance">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RemittanceDetail_Remittance">
+    <End Role="Remittance" Type="SalesAndMonitoringModel.Store.Remittance" Multiplicity="0..1" />
+    <End Role="RemittanceDetail" Type="SalesAndMonitoringModel.Store.RemittanceDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Remittance">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RemittanceDetail">
+        <PropertyRef Name="RemitID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="GetAccountReceivable" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="GetBilling" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="GetOrderList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>

@@ -1,0 +1,6 @@
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\RonetJhon\source\repos\LayeredAppi\DataAccess\obj\Debug\DataAccess.pdb

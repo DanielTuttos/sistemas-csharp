@@ -1,0 +1,20 @@
+﻿Samba.Modules.AccountModule
+
+
+library
+C#
+.cs
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Modules.AccountModule\obj\Debug\
+Samba.Modules.AccountModule
+none
+false
+DEBUG;TRACE
+
+10-396312554
+
+38413812631
+30358343694
+AccountDetailsView.xaml;BatchDocumentCreatorView.xaml;Dashboard\AccountScreenView.xaml;AccountSelectorView.xaml;Dashboard\AccountTransactionDocumentTypeView.xaml;Dashboard\AccountTransactionDocumentView.xaml;Dashboard\AccountTransactionTypeView.xaml;Dashboard\AccountView.xaml;Dashboard\AccountTypeView.xaml;DocumentCreatorView.xaml;
+
+False
+

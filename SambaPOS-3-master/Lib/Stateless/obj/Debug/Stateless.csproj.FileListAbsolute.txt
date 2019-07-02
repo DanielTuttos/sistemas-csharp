@@ -1,0 +1,10 @@
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\bin\Debug\Stateless.pdb
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csprojResolveAssemblyReference.cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.ParameterConversionResources.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateConfigurationResources.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateMachineResources.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.Properties.StateRepresentationResources.resources
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.csproj.GenerateResource.Cache
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.dll
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Lib\Stateless\obj\Debug\Stateless.pdb

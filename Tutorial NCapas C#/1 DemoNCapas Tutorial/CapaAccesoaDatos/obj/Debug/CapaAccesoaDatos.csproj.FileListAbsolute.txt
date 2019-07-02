@@ -1,0 +1,18 @@
+C:\Users\Juan\Desktop\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\Juan\Desktop\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\Juan\Desktop\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+C:\Users\Juan\Desktop\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\DemoNCapas Tutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb

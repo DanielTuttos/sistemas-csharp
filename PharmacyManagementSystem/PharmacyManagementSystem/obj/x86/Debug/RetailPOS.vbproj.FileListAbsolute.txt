@@ -1,0 +1,100 @@
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\bin\Debug\RetailPOS.exe.config
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmBackOffice.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.Cash_Payment_Transaction.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmCashRec.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmChangePassword1.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmExpense.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmExpenseType.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmJournal.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmOption.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmPrinterSetting.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmReport.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmSales.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmPurchaseRecord.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmPurchase.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmPartyBankAccountRegistration.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmPartyRecord.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmParty.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmCurrency.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmCompany.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmProductsRecord.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmProduct.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmSplash.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmSqlServerSetting.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmVoucher.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmVoucherRecord.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmWarehouse.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmTax.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmTaxType.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmWarehouseType.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmGroup.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmAbout.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmActivation.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmChangePassword.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmCategory.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmLogin.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmLogs.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmMainMenu.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmRegistration.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmSystemInfo.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmCurrencyRate.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmTaxSetting.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.frmSalesRecord.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.Resources.resources
+C:\Users\Raj\Desktop\IndustrialERPSytem\IndustrialERPSytem\obj\x86\Debug\RetailPOS.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\bin\Debug\RetailPOS.exe.config
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\bin\Debug\RetailPOS.exe
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\bin\Debug\RetailPOS.pdb
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\bin\Debug\RetailPOS.xml
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmBackOffice.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.Cash_Payment_Transaction.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmCashRec.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmChangePassword1.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmCurrency.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmExpense.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmExpenseType.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmJournal.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmOption.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmPrinterSetting.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmReport.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmSales.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmPurchaseRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmPurchase.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmPartyBankAccountRegistration.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmPartyRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmParty.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmCompany.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmProduct.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmSplash.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmSqlServerSetting.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmVoucher.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmVoucherRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmWarehouse.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmTax.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmTaxType.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmWarehouseType.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmAbout.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmActivation.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmChangePassword.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmCategory.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmLogin.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmLogs.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmRegistration.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmSystemInfo.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmTaxSetting.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmSalesRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.Resources.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.exe
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.xml
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.pdb
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmStockIssue.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmStockIssueRecord.resources
+C:\Users\Raj\Desktop\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.frmStore.resources
+F:\Retail POS\RetailPOS\bin\Debug\RetailPOS.exe.config
+F:\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.exe
+F:\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.xml
+F:\Retail POS\RetailPOS\obj\x86\Debug\RetailPOS.pdb
+F:\Retail POS\RetailPOS\bin\Debug\PharmacyManagementSystem.exe.config

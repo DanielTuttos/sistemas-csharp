@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SalesAndMonitoringModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="SalesAndMonitoringEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="SalesAndMonitoringModel.Customer" />
+    <EntitySet Name="Employees" EntityType="SalesAndMonitoringModel.Employee" />
+    <EntitySet Name="Products" EntityType="SalesAndMonitoringModel.Product" />
+    <EntitySet Name="Suppliers" EntityType="SalesAndMonitoringModel.Supplier" />
+    <EntitySet Name="Vendors" EntityType="SalesAndMonitoringModel.Vendor" />
+    <AssociationSet Name="FK_Products_Suppliers" Association="SalesAndMonitoringModel.FK_Products_Suppliers">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <EntitySet Name="DB_tbl" EntityType="SalesAndMonitoringModel.DB_tbl" />
+    <EntitySet Name="Privilege_tbl" EntityType="SalesAndMonitoringModel.Privilege_tbl" />
+    <EntitySet Name="Sub_Priv_tbl" EntityType="SalesAndMonitoringModel.Sub_Priv_tbl" />
+    <EntitySet Name="User_tbl" EntityType="SalesAndMonitoringModel.User_tbl" />
+    <AssociationSet Name="FK_Privilege_tbl_DB_tbl" Association="SalesAndMonitoringModel.FK_Privilege_tbl_DB_tbl">
+      <End Role="DB_tbl" EntitySet="DB_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Privilege_tbl_Sub_Priv_tbl" Association="SalesAndMonitoringModel.FK_Privilege_tbl_Sub_Priv_tbl">
+      <End Role="Sub_Priv_tbl" EntitySet="Sub_Priv_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Privilege_tbl_User_tbl" Association="SalesAndMonitoringModel.FK_Privilege_tbl_User_tbl">
+      <End Role="User_tbl" EntitySet="User_tbl" />
+      <End Role="Privilege_tbl" EntitySet="Privilege_tbl" />
+    </AssociationSet>
+    <EntitySet Name="Orders" EntityType="SalesAndMonitoringModel.Order" />
+    <AssociationSet Name="FK_Orders_Customers" Association="SalesAndMonitoringModel.FK_Orders_Customers">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Employees" Association="SalesAndMonitoringModel.FK_Orders_Employees">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <EntitySet Name="Payments" EntityType="SalesAndMonitoringModel.Payment" />
+    <AssociationSet Name="FK_Payment_Orders" Association="SalesAndMonitoringModel.FK_Payment_Orders">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="Payment" EntitySet="Payments" />
+    </AssociationSet>
+    <EntitySet Name="Audit_Trails" EntityType="SalesAndMonitoringModel.Audit_Trail" />
+    <EntitySet Name="Order_Details" EntityType="SalesAndMonitoringModel.Order_Detail" />
+    <AssociationSet Name="FK_Order_Details_Orders" Association="SalesAndMonitoringModel.FK_Order_Details_Orders">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="Order_Detail" EntitySet="Order_Details" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Order_Details_Products" Association="SalesAndMonitoringModel.FK_Order_Details_Products">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="Order_Detail" EntitySet="Order_Details" />
+    </AssociationSet>
+    <FunctionImport Name="GetAccountReceivable" ReturnType="Collection(SalesAndMonitoringModel.GetAccountReceivable_Result)" />
+    <FunctionImport Name="GetBilling" ReturnType="Collection(SalesAndMonitoringModel.GetBilling_Result)" />
+    <FunctionImport Name="GetOrderList" ReturnType="Collection(SalesAndMonitoringModel.GetOrderList_Result)" />
+    <EntitySet Name="Remittances" EntityType="SalesAndMonitoringModel.Remittance" />
+    <AssociationSet Name="FK_Remittance_User_tbl" Association="SalesAndMonitoringModel.FK_Remittance_User_tbl">
+      <End Role="User_tbl" EntitySet="User_tbl" />
+      <End Role="Remittance" EntitySet="Remittances" />
+    </AssociationSet>
+    <EntitySet Name="RemittanceDetails" EntityType="SalesAndMonitoringModel.RemittanceDetail" />
+    <AssociationSet Name="FK_RemittanceDetail_Remittance" Association="SalesAndMonitoringModel.FK_RemittanceDetail_Remittance">
+      <End Role="Remittance" EntitySet="Remittances" />
+      <End Role="RemittanceDetail" EntitySet="RemittanceDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CustomerID" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CustomerName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Address" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Mobile" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Orders" Relationship="SalesAndMonitoringModel.FK_Orders_Customers" FromRole="Customer" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Type="Int32" Name="EmployeeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Title" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="TitleOfCourtesy" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="BirthDate" Precision="3" />
+    <Property Type="DateTime" Name="HireDate" Precision="3" />
+    <Property Type="String" Name="Address" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="City" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Region" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="PostalCode" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Country" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="HomePhone" MaxLength="24" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Extension" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Type="Binary" Name="Photo" MaxLength="Max" FixedLength="false" />
+    <Property Type="String" Name="Notes" MaxLength="1073741823" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="ReportsTo" />
+    <NavigationProperty Name="Orders" Relationship="SalesAndMonitoringModel.FK_Orders_Employees" FromRole="Employee" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Type="Int32" Name="ProductID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ProductName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="SupplierID" />
+    <Property Type="String" Name="QuantityPerUnit" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="Decimal" Name="UnitPrice" Precision="19" Scale="4" />
+    <Property Type="Int16" Name="UnitsInStock" />
+    <Property Type="Int16" Name="UnitsOnOrder" />
+    <Property Type="Int16" Name="ReorderLevel" />
+    <Property Type="Boolean" Name="Discontinued" />
+    <NavigationProperty Name="Supplier" Relationship="SalesAndMonitoringModel.FK_Products_Suppliers" FromRole="Product" ToRole="Supplier" />
+    <Property Type="String" Name="Barcode" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Order_Details" Relationship="SalesAndMonitoringModel.FK_Order_Details_Products" FromRole="Product" ToRole="Order_Detail" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SupplierID" />
+    </Key>
+    <Property Type="Int32" Name="SupplierID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CompanyName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ContactName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ContactTitle" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Address" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="City" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Region" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="PostalCode" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Country" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="HomePage" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Products" Relationship="SalesAndMonitoringModel.FK_Products_Suppliers" FromRole="Supplier" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Vendor">
+    <Key>
+      <PropertyRef Name="ShipperID" />
+    </Key>
+    <Property Type="Int32" Name="ShipperID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CompanyName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Phone" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Address" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Mobile" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Fax" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Products_Suppliers">
+    <End Type="SalesAndMonitoringModel.Supplier" Role="Supplier" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Product" Role="Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="SupplierID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="SupplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="DB_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="DBDesc" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Privilege_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_DB_tbl" FromRole="DB_tbl" ToRole="Privilege_tbl" />
+  </EntityType>
+  <EntityType Name="Privilege_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="PrivilegeID" Nullable="false" />
+    <Property Type="Int32" Name="DbID" />
+    <Property Type="Int32" Name="UserID" />
+    <NavigationProperty Name="DB_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_DB_tbl" FromRole="Privilege_tbl" ToRole="DB_tbl" />
+    <NavigationProperty Name="Sub_Priv_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_Sub_Priv_tbl" FromRole="Privilege_tbl" ToRole="Sub_Priv_tbl" />
+    <NavigationProperty Name="User_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_User_tbl" FromRole="Privilege_tbl" ToRole="User_tbl" />
+  </EntityType>
+  <EntityType Name="Sub_Priv_tbl">
+    <Key>
+      <PropertyRef Name="PrivilegeID" />
+    </Key>
+    <Property Type="Int32" Name="PrivilegeID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Description" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="Add" />
+    <Property Type="Boolean" Name="Edit" />
+    <Property Type="Boolean" Name="Delete" />
+    <Property Type="Boolean" Name="View" />
+    <NavigationProperty Name="Privilege_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_Sub_Priv_tbl" FromRole="Sub_Priv_tbl" ToRole="Privilege_tbl" />
+  </EntityType>
+  <EntityType Name="User_tbl">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="UserID" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Password" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="UserLevel" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="PrivID" />
+    <NavigationProperty Name="Privilege_tbl" Relationship="SalesAndMonitoringModel.FK_Privilege_tbl_User_tbl" FromRole="User_tbl" ToRole="Privilege_tbl" />
+    <Property Type="String" Name="Fullname" MaxLength="80" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Remittances" Relationship="SalesAndMonitoringModel.FK_Remittance_User_tbl" FromRole="User_tbl" ToRole="Remittance" />
+  </EntityType>
+  <Association Name="FK_Privilege_tbl_DB_tbl">
+    <End Type="SalesAndMonitoringModel.DB_tbl" Role="DB_tbl" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Privilege_tbl" Role="Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DB_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="DbID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Privilege_tbl_Sub_Priv_tbl">
+    <End Type="SalesAndMonitoringModel.Sub_Priv_tbl" Role="Sub_Priv_tbl" Multiplicity="1" />
+    <End Type="SalesAndMonitoringModel.Privilege_tbl" Role="Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sub_Priv_tbl">
+        <PropertyRef Name="PrivilegeID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="PrivilegeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Privilege_tbl_User_tbl">
+    <End Type="SalesAndMonitoringModel.User_tbl" Role="User_tbl" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Privilege_tbl" Role="Privilege_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Privilege_tbl">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Type="Int32" Name="OrderID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="CustomerID" />
+    <Property Type="Int32" Name="EmployeeID" />
+    <Property Type="DateTime" Name="OrderDate" Precision="3" />
+    <Property Type="DateTime" Name="RequiredDate" Precision="3" />
+    <Property Type="DateTime" Name="DeliveryDate" Precision="3" />
+    <Property Type="DateTime" Name="BillingDate" Precision="3" />
+    <Property Type="String" Name="DeliveryAddress" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="CustomerName" MaxLength="80" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Term" />
+    <Property Type="Boolean" Name="IsPaid" />
+    <NavigationProperty Name="Customer" Relationship="SalesAndMonitoringModel.FK_Orders_Customers" FromRole="Order" ToRole="Customer" />
+    <NavigationProperty Name="Employee" Relationship="SalesAndMonitoringModel.FK_Orders_Employees" FromRole="Order" ToRole="Employee" />
+    <NavigationProperty Name="Payments" Relationship="SalesAndMonitoringModel.FK_Payment_Orders" FromRole="Order" ToRole="Payment" />
+    <NavigationProperty Name="Order_Details" Relationship="SalesAndMonitoringModel.FK_Order_Details_Orders" FromRole="Order" ToRole="Order_Detail" />
+  </EntityType>
+  <Association Name="FK_Orders_Customers">
+    <End Type="SalesAndMonitoringModel.Customer" Role="Customer" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Employees">
+    <End Type="SalesAndMonitoringModel.Employee" Role="Employee" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Order" Role="Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Payment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="InvoiceID" />
+    <Property Type="Decimal" Name="AmountPaid" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Balance" Precision="19" Scale="4" />
+    <NavigationProperty Name="Order" Relationship="SalesAndMonitoringModel.FK_Payment_Orders" FromRole="Payment" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK_Payment_Orders">
+    <End Type="SalesAndMonitoringModel.Order" Role="Order" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Payment" Role="Payment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Payment">
+        <PropertyRef Name="InvoiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Audit_Trail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="TypeOfTrans" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="TransNo" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsSales" />
+    <Property Type="Boolean" Name="IsVoid" />
+    <Property Type="String" Name="VoidReason" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="IsReturn" />
+    <Property Type="String" Name="ReturnReason" MaxLength="Max" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Order_Detail">
+    <Key>
+      <PropertyRef Name="OrderDetailID" />
+    </Key>
+    <Property Type="Int32" Name="OrderDetailID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="OrderlID" />
+    <Property Type="Int32" Name="ProductID" />
+    <Property Type="Decimal" Name="UnitPrice" Precision="19" Scale="4" />
+    <Property Type="Int16" Name="Quantity" Nullable="false" />
+    <Property Type="Single" Name="Discount" />
+    <Property Type="Boolean" Name="IsVoid" />
+    <Property Type="Boolean" Name="IsReturn" />
+    <NavigationProperty Name="Order" Relationship="SalesAndMonitoringModel.FK_Order_Details_Orders" FromRole="Order_Detail" ToRole="Order" />
+    <NavigationProperty Name="Product" Relationship="SalesAndMonitoringModel.FK_Order_Details_Products" FromRole="Order_Detail" ToRole="Product" />
+  </EntityType>
+  <Association Name="FK_Order_Details_Orders">
+    <End Type="SalesAndMonitoringModel.Order" Role="Order" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Order_Detail" Role="Order_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="Order_Detail">
+        <PropertyRef Name="OrderlID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Order_Details_Products">
+    <End Type="SalesAndMonitoringModel.Product" Role="Product" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Order_Detail" Role="Order_Detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Order_Detail">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="GetAccountReceivable_Result">
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" />
+    <Property Type="String" Name="CustomerName" Nullable="true" MaxLength="50" />
+    <Property Type="DateTime" Name="DeliveryDate" Nullable="true" Precision="23" />
+    <Property Type="Decimal" Name="Amount" Nullable="true" Precision="19" />
+    <Property Type="Int32" Name="Term" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="GetBilling_Result">
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" />
+    <Property Type="String" Name="CustomerName" Nullable="true" MaxLength="50" />
+    <Property Type="Decimal" Name="Amount" Nullable="true" Precision="19" />
+    <Property Type="DateTime" Name="BillingDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="GetOrderList_Result">
+    <Property Type="Int32" Name="InvoiceID" Nullable="false" />
+    <Property Type="String" Name="CustomerName" Nullable="true" MaxLength="50" />
+    <Property Type="Decimal" Name="Amount" Nullable="true" Precision="19" />
+    <Property Type="DateTime" Name="DeliveryDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <EntityType Name="Remittance">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="UserID" />
+    <Property Type="DateTime" Name="DateRemit" Precision="0" />
+    <NavigationProperty Name="User_tbl" Relationship="SalesAndMonitoringModel.FK_Remittance_User_tbl" FromRole="Remittance" ToRole="User_tbl" />
+    <NavigationProperty Name="RemittanceDetails" Relationship="SalesAndMonitoringModel.FK_RemittanceDetail_Remittance" FromRole="Remittance" ToRole="RemittanceDetail" />
+  </EntityType>
+  <Association Name="FK_Remittance_User_tbl">
+    <End Type="SalesAndMonitoringModel.User_tbl" Role="User_tbl" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.Remittance" Role="Remittance" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User_tbl">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Remittance">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="RemittanceDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="RemitID" />
+    <Property Type="String" Name="TypeOfTender" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="DateCheck" Precision="0" />
+    <Property Type="String" Name="CheckNo" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Amount" Precision="19" Scale="4" />
+    <Property Type="Int32" Name="Quantity" />
+    <Property Type="Decimal" Name="Total" Precision="19" Scale="4" />
+    <NavigationProperty Name="Remittance" Relationship="SalesAndMonitoringModel.FK_RemittanceDetail_Remittance" FromRole="RemittanceDetail" ToRole="Remittance" />
+  </EntityType>
+  <Association Name="FK_RemittanceDetail_Remittance">
+    <End Type="SalesAndMonitoringModel.Remittance" Role="Remittance" Multiplicity="0..1" />
+    <End Type="SalesAndMonitoringModel.RemittanceDetail" Role="RemittanceDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Remittance">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RemittanceDetail">
+        <PropertyRef Name="RemitID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

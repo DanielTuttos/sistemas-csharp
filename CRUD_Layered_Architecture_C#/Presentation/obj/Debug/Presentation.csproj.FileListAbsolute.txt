@@ -1,0 +1,15 @@
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\Presentation.exe
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\Presentation.pdb
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\Domain.dll
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\DataAccess.dll
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\Domain.pdb
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.Forms.FormEmployee.resources
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.exe
+C:\Users\RonetJhon\source\repos\LayeredAppi\Presentation\obj\Debug\Presentation.pdb

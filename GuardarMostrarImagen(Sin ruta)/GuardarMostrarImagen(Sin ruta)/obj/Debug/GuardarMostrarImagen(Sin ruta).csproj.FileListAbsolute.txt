@@ -1,0 +1,19 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).exe.config
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).exe.config
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).exe
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).pdb
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).csprojResolveAssemblyReference.cache
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen_Sin_ruta_.Form1.resources
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen_Sin_ruta_.Properties.Resources.resources
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).csproj.GenerateResource.Cache
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).exe
+D:\Escritorio\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).exe.config
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\bin\Debug\GuardarMostrarImagen(Sin ruta).pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen_Sin_ruta_.Form1.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen_Sin_ruta_.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\GuardarMostrarImagen(Sin ruta)\GuardarMostrarImagen(Sin ruta)\obj\Debug\GuardarMostrarImagen(Sin ruta).csproj.GenerateResource.Cache

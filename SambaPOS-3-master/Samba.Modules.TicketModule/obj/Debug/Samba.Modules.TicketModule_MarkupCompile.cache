@@ -1,0 +1,20 @@
+﻿Samba.Modules.TicketModule
+
+
+library
+C#
+.cs
+D:\Archivos Equipo\Escritorio\SambaPOS-3-master\Samba.Modules.TicketModule\obj\Debug\
+Samba.Modules.TicketModule
+none
+false
+DEBUG;TRACE
+
+91522580713
+
+52-1272843086
+29-32533205
+CalculationSelectorView.xaml;ChangePaymentTypeView.xaml;OrderTagGroupView.xaml;CalculationTypeView.xaml;PaymentTypeView.xaml;TicketTagGroupView.xaml;TicketTypeView.xaml;TicketExplorerView.xaml;Widgets\TicketLister\TicketListerControl.xaml;
+
+False
+

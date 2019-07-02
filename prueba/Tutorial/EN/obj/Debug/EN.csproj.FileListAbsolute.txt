@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Desktop\Tutorial\EN\bin\Debug\EN.dll
+C:\Users\Jonathan\Desktop\Tutorial\EN\bin\Debug\EN.pdb
+C:\Users\Jonathan\Desktop\Tutorial\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Tutorial\EN\obj\Debug\EN.dll
+C:\Users\Jonathan\Desktop\Tutorial\EN\obj\Debug\EN.pdb
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\bin\Debug\EN.dll
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\bin\Debug\EN.pdb
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\obj\Debug\EN.csprojAssemblyReference.cache
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\obj\Debug\EN.dll
+C:\Users\UPTUDENT\Desktop\prueba\Tutorial\EN\obj\Debug\EN.pdb
